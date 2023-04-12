@@ -32,13 +32,13 @@ export const navItems = [
 export const detailsList = [
   {
     name: "Full Name",
-    text: "Kiarie Ng'ang'a",
+    text: "Nick Ng'ang'a",
     icon: <AiOutlineTwitter />,
     id:1
   },
   {
     name: "Github",
-    text: "nikikiaire",
+    text: "nikikiarie",
     icon: <AiOutlineGithub />,
     id:2
   },

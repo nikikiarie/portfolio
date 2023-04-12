@@ -22,26 +22,29 @@ const Projects = () => {
             <div className="flex flex-col items-center justify-center">
               <div className="mb-5">
                 <div className="flex justify-center text-3xl">
-              <AiFillGithub/>
-</div>
-                <h2 className="text-lg text-gray-400">E-commerce</h2>
-                
-                <div>
+                  <a href="https://github.com/nikikiarie/socia">
+                    <AiFillGithub />
+                  </a>
                 </div>
+                <h2 className="text-lg text-gray-400">E-commerce</h2>
+
+                <div></div>
               </div>
               <div>
                 <img src={mockup3} alt="hfgj" className="h-[250px]" />
               </div>
             </div>
-            <div className="flex flex-col items-center justify-center">
-            <div className="mb-5">
-            <div className="flex justify-center text-3xl">
-              <AiFillGithub/>
-</div>
+            <div className="flex flex-col items-center justify-center mt-5 md:mt-0">
+              <div className="mb-5">
+                <div className="flex justify-center text-3xl">
+                  <a href="https://github.com/nikikiarie/mern_commerce_cyclic">
+                    <AiFillGithub />
+                  </a>
+                </div>
                 <h2 className="text-lg text-gray-400">Social Media</h2>
               </div>
               <div>
-              <img src={mockup2} alt="hfgj" className="h-[250px]" />
+                <img src={mockup2} alt="hfgj" className="h-[250px]" />
               </div>
             </div>
           </div>

@@ -16,7 +16,7 @@ const Hero = () => {
               <br />
             </p>
             <span className=" font-bold text-[38px] leading-[36px] md:text-[50px]  md:leading-10">
-              Kiarie Ng'ang'a
+              Nick Ng'ang'a
             </span>
           </div>
           <p className="text-left text-lg text-[#ffffffcf] font-medium">
